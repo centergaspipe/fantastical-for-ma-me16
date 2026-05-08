@@ -1,4 +1,4 @@
-
+Enhance Fantastical for macOS with Fantastical for macOS new Plugin: reminders & markdown support, the #1 plugin. Includes reminders and markdown support for a smoother experience.
 
 
 
